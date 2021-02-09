@@ -11,10 +11,10 @@
         <Label x:Name="lblZip" Content="ZipCode:" HorizontalAlignment="Left" Margin="81,107,0,0" VerticalAlignment="Top"/>
         <Label x:Name="lblAddress" Content="Address:" HorizontalAlignment="Left" Margin="81,76,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.508,0.505"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="183,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="txtZip" HorizontalAlignment="Left" Margin="183,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Margin="183,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtZip" HorizontalAlignment="Left" Margin="183,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="200,165,0,0" VerticalAlignment="Top" Height="24" Width="75" IsDefault="True" Click="btnSubmit_Click"/>
-        <ListBox Margin="422,10,21,90" SelectionChanged="ListBox_SelectionChanged"/>
+        <ListBox x:Name="lstinfo" Margin="422,10,21,90" />
 
     </Grid>
 </Window>

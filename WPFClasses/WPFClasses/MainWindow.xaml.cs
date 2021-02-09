@@ -31,9 +31,14 @@ namespace WPFClasses
             {
                 Name = txtName.Text,
                 Address = txtAddress.Text,
-                ZipCode = Convert.ToInt32(txtZip)
+                ZipCode = Convert.ToInt32(txtZip.Text)
             };
 
+            lstinfo.Items.Add(newform);
+
+            txtAddress.Text = string.Empty;
+            txtName.Text = string.Empty;
+            txtZip.Text = string.Empty;
 
         }
     }
