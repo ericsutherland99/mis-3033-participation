@@ -19,7 +19,9 @@ namespace WPFClasses
 
         public EntryForm(string name, string address, int zipCode)
         {
-
+            Name = name;
+            Address = address;
+            ZipCode = zipCode;
         }
 
         public override string ToString()
