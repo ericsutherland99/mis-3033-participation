@@ -1,0 +1,32 @@
+﻿<Window x:Class="_P__Classes_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_P__Classes_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FFC73F3F">
+    <Grid>
+        <Label x:Name="lbltitle" Content="University of Oklahoma" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="78" Width="542" FontSize="48" FontWeight="Bold" Background="{x:Null}" Foreground="White"/>
+        <Label x:Name="lblLastName" Content="Last Name:" HorizontalAlignment="Left" Margin="62,130,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblMajor" Content="Major:" HorizontalAlignment="Left" Margin="62,161,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblGPA" Content="Cumulative GPA:" HorizontalAlignment="Left" Margin="62,192,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblfirstname" Content="First Name:" HorizontalAlignment="Left" Margin="62,99,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblstreetnumber" Content="Street Number:" HorizontalAlignment="Left" Margin="62,250,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblstreetname" Content="Street Name:" HorizontalAlignment="Left" Margin="62,281,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblState" Content="State:" HorizontalAlignment="Left" Margin="62,312,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblcity" Content="City:" HorizontalAlignment="Left" Margin="62,343,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblZip" Content="ZipCode:" HorizontalAlignment="Left" Margin="62,374,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtfirstname" HorizontalAlignment="Left" Margin="216,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtlastname" HorizontalAlignment="Left" Margin="216,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtmajor" HorizontalAlignment="Left" Margin="216,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGPA" HorizontalAlignment="Left" Margin="216,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtstreetnumber" HorizontalAlignment="Left" Margin="216,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtstreetname" HorizontalAlignment="Left" Margin="216,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtstate" HorizontalAlignment="Left" Margin="216,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtcity" HorizontalAlignment="Left" Margin="216,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtzip" HorizontalAlignment="Left" Margin="216,378,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnsubmit" Content="Submit" HorizontalAlignment="Left" Margin="510,347,0,0" VerticalAlignment="Top" Height="53" Width="161" Click="btnsubmit_Click" IsDefault="True"/>
+        <ListBox x:Name="lstgraduates" Margin="434,103,53,118" Background="#FFD86666" MouseDoubleClick="dblclick"/>
+    </Grid>
+</Window>

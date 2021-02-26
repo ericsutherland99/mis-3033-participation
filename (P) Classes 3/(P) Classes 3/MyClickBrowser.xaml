@@ -1,0 +1,13 @@
+﻿<Window x:Class="_P__Classes_3.MyClickBrowser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_P__Classes_3"
+        mc:Ignorable="d"
+        Title="MyClickBrowser" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblstudent" Content="" HorizontalAlignment="Left" Margin="122,35,0,0" VerticalAlignment="Top" Height="39" Width="569"/>
+
+    </Grid>
+</Window>

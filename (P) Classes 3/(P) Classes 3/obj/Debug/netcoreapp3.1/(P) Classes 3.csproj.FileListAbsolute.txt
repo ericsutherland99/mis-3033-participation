@@ -1,0 +1,21 @@
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.exe
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.deps.json
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.runtimeconfig.json
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.runtimeconfig.dev.json
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.dll
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\bin\Debug\netcoreapp3.1\(P) Classes 3.pdb
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.csprojAssemblyReference.cache
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\MyClickBrowser.g.cs
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3_MarkupCompile.cache
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3_MarkupCompile.lref
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\MyClickBrowser.baml
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.g.resources
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.AssemblyInfoInputs.cache
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.AssemblyInfo.cs
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.csproj.CoreCompileInputs.cache
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.dll
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.pdb
+C:\Users\ericsutherland\source\repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\(P) Classes 3.genruntimeconfig.cache

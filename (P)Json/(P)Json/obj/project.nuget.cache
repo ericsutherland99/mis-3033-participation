@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjxTVKrbqbLwiSDopE1Atsm1YKsXkyVnAu5xSX4qgsJuvyBPaqQbPwul1n7lQt7i7mDUSdWYna9nZqUuktrx7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ericsutherland\\source\\repos\\ericsutherland99\\mis-3033-participation\\(P)Json\\(P)Json\\(P)Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ericsutherland\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
