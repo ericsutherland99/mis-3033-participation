@@ -24,7 +24,7 @@ namespace _P__Classes_3
 
             //lblstudent.Content = $"{student.FirstName} {student.LastName}, {student.Address}";
         }
-        public void studentz(Student q)
+        public void studentz(Student s)
         {
             lblstudent.Content = $"{student.FirstName} {student.LastName}, {student.Address}";
         }
