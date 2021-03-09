@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Debug\netcoreapp3.1\
+C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\obj\Release\netcoreapp3.1\
 _P__Classes_3
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P) Classes 3\(P) Classes 3\App.xaml
 21810082094
 
@@ -16,5 +16,5 @@ C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P)
 1921654412462
 MainWindow.xaml;MyClickBrowser.xaml;
 
-False
+True
 
