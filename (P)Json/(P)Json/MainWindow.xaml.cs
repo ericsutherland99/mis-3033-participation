@@ -55,14 +55,16 @@ namespace _P_Json
                 string json = client.GetStringAsync(url2).Result;
                 click = JsonConvert.DeserializeObject<ClickPokemon>(json);
 
-                lblheight.Content = click.height;
-                lblweight.Content = click.weight;
-                imgpokemon.Source = new BitmapImage(new Uri(click.sprites.front_default));
+                //lblheight.Content = click.height;
+                //lblweight.Content = click.weight;
+                //imgpokemon.Source = new BitmapImage(new Uri(click.sprites.front_default));
             }
+            lblheight.Content = click.height;
+            lblweight.Content = click.weight;
+            imgpokemon.Source = new BitmapImage(new Uri(click.sprites.front_default));
 
-            
-            
-               
+
+
         }
 
         private void btnswitch_Click(object sender, RoutedEventArgs e)
