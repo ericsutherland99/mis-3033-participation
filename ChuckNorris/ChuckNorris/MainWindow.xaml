@@ -6,8 +6,12 @@
         xmlns:local="clr-namespace:ChuckNorris"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="https://www.sheepadoodles.org/uploads/8/2/1/7/82172392/3675770.jpg?603" Stretch="Fill"/>
+    </Window.Background>
     <Grid>
         <ComboBox x:Name="cmb_category" HorizontalAlignment="Left" Margin="233,96,0,0" VerticalAlignment="Top" Width="120"/>
-        <Button x:Name="btn_submit" Content="Laugh" HorizontalAlignment="Left" Margin="518,95,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_submit" Content="Laugh" HorizontalAlignment="Left" Margin="518,95,0,0" VerticalAlignment="Top" Click="btn_submit_Click"/>
+        <TextBlock x:Name="txtblk_joke" HorizontalAlignment="Left" Margin="202,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="93" Width="447" Foreground="#FF7E2C2C"/>
     </Grid>
 </Window>

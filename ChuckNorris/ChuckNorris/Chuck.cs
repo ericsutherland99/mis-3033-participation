@@ -6,6 +6,7 @@ namespace ChuckNorris
 {
     class Chuck
     {
+        public string value { get; set; }
         public string[] categories { get; set; }
     }
 }

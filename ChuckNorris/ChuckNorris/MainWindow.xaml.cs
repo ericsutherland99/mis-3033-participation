@@ -22,6 +22,7 @@ namespace ChuckNorris
     /// </summary>
     public partial class MainWindow : Window
     {
+        string url;
         public MainWindow()
         {
             InitializeComponent();
@@ -34,8 +35,8 @@ namespace ChuckNorris
             cmb_category.Items.Add("All");
             cmb_category.SelectedIndex = 0;
 
-            //Chuck fill;
-            string url = "https://api.chucknorris.io/jokes/categories";
+            
+            url = "https://api.chucknorris.io/jokes/categories";
 
             using (var client = new HttpClient())
             {
@@ -45,6 +46,25 @@ namespace ChuckNorris
                 {
                     cmb_category.Items.Add(category);
                 }
+            }
+        }
+
+        private void btn_submit_Click(object sender, RoutedEventArgs e)
+        {
+            Chuck fill;
+            if (cmb_category.SelectedIndex == 0)
+            {
+                url = "https://api.chucknorris.io/jokes/random";
+            }
+            else
+            {
+                url = $"https://api.chucknorris.io/jokes/random?category={cmb_category.SelectedItem}";
+            }
+            using (var client = new HttpClient())
+            {
+                string json = client.GetStringAsync(url).Result;
+                fill = JsonConvert.DeserializeObject<Chuck>(json);
+                txtblk_joke.Text = fill.value;
             }
         }
     }
