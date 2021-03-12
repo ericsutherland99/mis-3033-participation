@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyKIlkoIDVQVAuQI7+uCVSuBLospZ8TpmQ6zfwPVYA84bPhn6XJxmla8AVAvne4W66ybjiYaC7h85Qk03wh2YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ericsutherland\\source\\repos\\ericsutherland99\\mis-3033-participation\\ChuckNorris\\ChuckNorris\\ChuckNorris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ericsutherland\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

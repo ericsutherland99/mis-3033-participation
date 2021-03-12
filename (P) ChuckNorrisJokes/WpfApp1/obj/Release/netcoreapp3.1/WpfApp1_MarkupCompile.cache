@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P) ChuckNorrisJokes\WpfApp1\obj\Debug\netcoreapp3.1\
+C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P) ChuckNorrisJokes\WpfApp1\obj\Release\netcoreapp3.1\
 WpfApp1
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P) ChuckNorrisJokes\WpfApp1\App.xaml
 11151548125
 
@@ -16,5 +16,5 @@ C:\Users\ericsutherland\Source\Repos\ericsutherland99\mis-3033-participation\(P)
 193-1063055378
 MainWindow.xaml;
 
-False
+True
 
