@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tYMFC9TwDS+ukNw8ds3IQ+KU+KodCdhpzrc0brKCPpslBvV2OzXd18iT6KsdE/MQsOr9mlspj5/9RaWoW6BAqQ==",
+  "dgSpecHash": "jnTn24Anf4EiDFYpx0iPUC7TpuN0jbQq8dKHE8Ta1wel9cG/tY+xjl3BvTzyCmGQg2hSu77HZZGRRsyDC3zJmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ericsutherland\\source\\repos\\ericsutherland99\\mis-3033-participation\\(P) ChuckNorrisJokes\\WpfApp1\\WpfApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ericsutherland\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
