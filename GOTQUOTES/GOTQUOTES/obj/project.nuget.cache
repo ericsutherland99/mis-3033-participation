@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+D+TtECZwzknZTjiXBbnBRdRX86fy0lIKVRLlVHoLyo6qS4bWhdvMYYaiNOjt9FuxCtxFmT7C+dHOVDjpJaOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ericsutherland\\source\\repos\\ericsutherland99\\mis-3033-participation\\GOTQUOTES\\GOTQUOTES\\GOTQUOTES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ericsutherland\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
