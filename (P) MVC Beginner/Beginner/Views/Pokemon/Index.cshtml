@@ -4,11 +4,9 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>All Pokemon</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
+
 <table class="table">
     <tr>
         <th>
@@ -29,7 +27,7 @@
             @Html.DisplayFor(modelItem => item.url)
         </td>
         <td>
-            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ })
+            @Html.ActionLink("Get more information here", "Info", new {id=item.name})
         </td>
     </tr>
 }

@@ -23,5 +23,17 @@ namespace Beginner.Controllers
             }
             return View(api.results);
         }
+
+        public ActionResult Info(string id)
+        {
+            PokemonInfo info;
+
+            using (var client = new HttpClient())
+            {
+                var json = client.GetStringAsync($"https://pokeapi.co/api/v2/pokemon/{id}").Result;
+                info = JsonConvert.DeserializeObject<PokemonInfo>(json);
+            }
+            return View(info);
+        }
     }
 }
